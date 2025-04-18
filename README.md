@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+💻 CodeArena — The Ultimate Competitive Coding eSport Platform
+CodeArena is a dynamic and interactive web platform designed to redefine the online coding experience. Blending the thrill of competition with the power of community, CodeArena serves as a one-stop hub for coders to compete, connect, and grow—all in one place.
 
-## Getting Started
+🔥 Key Features
+🧠 1v1 Battles & Tournaments
+Challenge other coders in real-time 1v1 duels.
 
-First, run the development server:
+Join global tournaments and climb the ranks by proving your problem-solving skills.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Compete on topics of your choice by creating or joining private rooms with friends.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🌍 Community & Networking
+Connect with coders worldwide, chat, and exchange knowledge.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Share coding achievements as stories visible to your followers.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Directly share your milestones and battle wins on LinkedIn and other social media platforms.
 
-## Learn More
+🎯 Practice & Daily Challenges
+Solve daily questions and practice curated problems across a variety of topics.
 
-To learn more about Next.js, take a look at the following resources:
+Participate in scheduled contests to sharpen your skills and stay contest-ready.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🏆 Rewards & Gamification
+Earn coins by solving problems, winning battles, and participating in contests.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Use coins to unlock entry into premium tournaments and 1v1 battles.
 
-## Deploy on Vercel
+Collect badges, track your coding journey, and climb the global leaderboard.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+👥 Custom Rooms with Friends
+Create personalized rooms, generate a shareable link, and battle friends in chosen topics.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Ideal for peer-to-peer learning, mock contests, or just fun competition.
+
+🚀 Vision
+CodeArena is more than just a coding platform—it's a digital eSport arena for developers. Whether you're a beginner aiming to learn or a seasoned coder chasing the top ranks, CodeArena offers a gamified, competitive, and social experience to keep you engaged and growing every day.
